@@ -1,0 +1,1 @@
+# scrypt_for_saltstack
